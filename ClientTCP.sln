@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientTCP", "ClientTCP.csproj", "{4EEF1E8D-71BC-4F11-AF28-2B788D57B796}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EEF1E8D-71BC-4F11-AF28-2B788D57B796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EEF1E8D-71BC-4F11-AF28-2B788D57B796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EEF1E8D-71BC-4F11-AF28-2B788D57B796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EEF1E8D-71BC-4F11-AF28-2B788D57B796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
